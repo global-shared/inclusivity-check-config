@@ -63,7 +63,7 @@ rules:
     alternatives:
       - in-path attack
       
-   - name: whitespace
+  - name: whitespace
     terms:
       - whitespace
     alternatives:
